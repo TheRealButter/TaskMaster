@@ -1,0 +1,6 @@
+{
+  "name": "TaskMaster",
+  "description": "Keyboard-first personal task manager to replace Todoist with natural language quick-add, SQLite database, recurring tasks, and ntfy mobile push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
